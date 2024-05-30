@@ -21,7 +21,7 @@ public class InventoryBuilder {
     private final Inventory inventory;
     private ItemStack item;
     private ItemMeta item_meta;
-    List<String> lore_colore;
+    private List<String> lore_colore;
 
     public InventoryBuilder(String titre, int rows) {
 
