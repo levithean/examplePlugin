@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="leviPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/Servs mc/testplugin/plugins</output-path>
+    <root id="archive" name="leviPlugin.jar">
+      <element id="module-output" name="leviPlugin" />
+    </root>
+  </artifact>
+</component>
