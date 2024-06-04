@@ -10,7 +10,7 @@ Only the code is available.
 To create an inventory, you need first to call the constructor :
 
 ```java
-ItemBuilder item = new ItemBuilder("name_of_inventory", 6);
+InventoryBuilder inventory = new InventoryBuilder("name_of_inventory", 6);
 ```
 String ***name_of_inventory*** : name of this inventory (colors are accepted using '&')
 
